@@ -48,7 +48,7 @@ export default {
 export const Default = {
   args: {
     title: "Default Card",
-    description: "This is a default card component built using Figma.",
+    description: "Test",
   },
 };
 
