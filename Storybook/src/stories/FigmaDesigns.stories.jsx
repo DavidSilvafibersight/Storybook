@@ -11,7 +11,7 @@ export const FiberSightDesigns = {
   parameters: {
     design: {
       type: "figma",
-      url: "https://www.figma.com/design/HB4VLPxdC4U5hTlhQUqzdj/FiberSight?node-id=548-183&t=KTEluFTPTdba4Mhy-1",
+      url: "https://www.figma.com/design/HB4VLPxdC4U5hTlhQUqzdj/FiberSight?node-id=547-339&t=KTEluFTPTdba4Mhy-1",
     },
   },
   render: () => (

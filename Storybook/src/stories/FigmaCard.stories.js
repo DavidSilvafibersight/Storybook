@@ -1,4 +1,3 @@
-// FigmaCard.stories.js
 import FigmaCard from "./FigmaCard";
 
 export default {
@@ -49,8 +48,7 @@ export default {
 export const Default = {
   args: {
     title: "Default Card",
-    description:
-      "This is a default card component built using Figma design tokens.",
+    description: "This is a default card component built using Figma.",
   },
 };
 
